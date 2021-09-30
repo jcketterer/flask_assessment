@@ -8,3 +8,9 @@ There is four aspects to this project.
 2. The helper file which imports the forex_python package and retreives the currency code and currency amount and converts it into a dollar amount with two decimals.
 3. The base.html file that holds the main skeleton of the form which has bootstrap also included. I did not include a .css file and let bootstrap do all the lifting with styling. Kept it simple.
 4. Lastly the two test files tested the functionality of both the routes created in the app.py file and the calculation file within the helper.py file.
+
+
+| Assessment Number & Name      | Today's Date |	Hours of Work Today	| Description of Work            |
+| :---                          |    :----:    |       :----:         |                           ---: |
+| Assessment #3 Forex Converter |	9/28	       | 1.5	                | Completed conceptual answers   |
+| Assessment #3 Forex Converter	| 9/29	       | 4	                  | Built program with testing     |
