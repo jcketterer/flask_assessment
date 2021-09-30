@@ -28,7 +28,7 @@ def form():
 
     if not correct_curr_code(to_currency) or not to_currency:
         flash("Ending currency not a valid currency code.")
-        redirect("/")
+        return redirect("/")
 
     amount = request.form.get("amount")
     if not valid_number(amount):
